@@ -1,12 +1,3 @@
-/*-----------------------------------------------------------------------------
-
-
-@author:        Marc Pérez Castells
-@contact:       marc.perez@whads.com
-@organization:  Whads Accent SL
-@since:         January 2016
------------------------------------------------------------------------------*/
-
 var React = require('react'),
     DOM = React.DOM, div = DOM.div, button = DOM.button, ul = DOM.ul, li = DOM.li;
 
